@@ -1,2 +1,3 @@
 # WaveDrom
-Running the WD files
+# WD files after running in wavedrom editor.
+# Intention is to show wavedrom.
